@@ -2,7 +2,7 @@
 
 I'm a software engineering student building and shipping whatever I can imagine.
 
-My main tech stack includes C++, Python, and JavaScript. 
+My main tech stack includes C++, Python, Java and JavaScript. 
 
 Check out my profile and connect with me:
 * [LinkedIn](https://www.linkedin.com/in/onisor-alexandru-calin/)
